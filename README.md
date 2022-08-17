@@ -1,3 +1,3 @@
 ## README
 
-Repository for sessions of International course of sustainable agricultural sciences
+Repository for sessions of International course in sustainable agro-livestock sciences
